@@ -1,0 +1,36 @@
+.RGB1 {
+    animation: color-change 0.4s infinite;
+}
+
+.RGB2 {
+    animation: color-change2 0.3s infinite;
+}
+
+.RGB3 {
+    animation: color-change3 0.2s infinite;
+}
+
+@keyframes color-change {
+    0% {color: red;}
+    33% {color: blue;}
+    66% {color: rgb(28, 193, 28);}
+}
+
+@keyframes color-change2 {
+    0% {color: rgb(51, 228, 241);}
+    13% {color: red;}
+    33% {color: rgb(221, 145, 54);}
+    45% {color: blue;}
+    66% {color: rgb(153, 37, 210);}
+    87% {color: rgb(28, 193, 28);}
+
+}
+
+@keyframes color-change3 {
+    0% {color: rgb(43, 38, 205);}
+    15% {color: rgb(51, 228, 241);}
+    33% {color: rgb(235, 53, 180);}
+    46% {color: rgb(28, 193, 28);}
+    64% {color: rgb(224, 236, 51);}
+    89% {color: red;}
+}
