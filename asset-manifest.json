@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/grundlaeggende-react/static/css/main.0075b5fe.css",
+    "main.js": "/grundlaeggende-react/static/js/main.b40b46c0.js",
+    "index.html": "/grundlaeggende-react/index.html",
+    "main.0075b5fe.css.map": "/grundlaeggende-react/static/css/main.0075b5fe.css.map",
+    "main.b40b46c0.js.map": "/grundlaeggende-react/static/js/main.b40b46c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0075b5fe.css",
+    "static/js/main.b40b46c0.js"
+  ]
+}
